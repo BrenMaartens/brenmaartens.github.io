@@ -1,6 +1,6 @@
 model
 name = Apple
-revision = 8404
+revision = 8413
 size = 20 40 21
 origin = -y
 shell = Outline 0.25
@@ -9,4 +9,4 @@ material type = toon, lighting = smooth, deform = 1 1
 material type = basic, lighting = smooth, roughness = 0, refractionRatio = 1, side = back
   colors = Outline:#000
 voxels
-1180-3(366B13-7B13-6B14-B380-)2(366B2(13-7B)13-B380-)2(420B380-)6(408B10-2B380-)6(420B380-)420B
+1180-366B3(13-7B13-6B14-B380-349B7-10B)2(13-7B)13-B380-349B7-10B2(13-7B)13-B380-2(349B7-13B7-11B13-7B393-)2(349B7-13B7-B2-8B13-7B393-)2(373B6-8B13-7B393-)2(355B5-8B12-7B13-4B396-)355B5-8B12-2(7B13-7B393-355B5-13B7-)7B13-7B393-372B7-8B13-7B393-372B2-13B13-7B393-372B2-3B3-7B13-7B393-387B13-7B13-
