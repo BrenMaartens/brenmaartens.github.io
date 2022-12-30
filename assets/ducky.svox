@@ -1,7 +1,7 @@
 model
 name = Ducky
-revision = 8426
-size = 20 40 20
+revision = 8427
+size = 20 40 30
 origin = -y
 shell = Outline 0.25
 material type = toon, lighting = smooth, deform = 1 1
@@ -9,4 +9,4 @@ material type = toon, lighting = smooth, deform = 1 1
 material type = basic, lighting = smooth, roughness = 0, refractionRatio = 1, side = back
   colors = Outline:#000
 voxels
-380-3B9(12-8B)12-225B4(380-3B9(13-7B)13-224B)380-4B9(11-9B)11-3(225B380-5B9(10-10B)10-)104B-120B380-6B9(9-11B)9-225B380-4B10(12-8B)12-83B2(-19B)-80B2(380-4B10(12-8B)12-204B)2(380-5B10(11-9B)11-204B)5(380-5B9(11-9B)15-5B15-4(11B9-)120B)
+4380-3B9(12-8B)12-225B2(380-3B9(13-7B)13-224B)2(380-2B10(14-6B)10(12-8B)12-6B)3(380-2B10(13-7B)10(12-8B)12-6B)380-2B10(13-7B)4(12-8B)12-5B-2B5(12-8B)12-6B380-2B10(13-7B)10(12-8B)11-7B380-2B11(14-6B)3(12-8B)3(12-5B-2B)3(12-8B)4(11-7B380-2B11(14-6B)9(12-8B))5(11-7B380-2B9(14-6B)6(18-2B)5(12-8B))11-7B4000-
