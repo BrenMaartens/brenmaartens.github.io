@@ -1,6 +1,6 @@
 model
 name = The House Structure
-revision = 8401
+revision = 8402
 size = 20 40 20
 origin = -y
 shell = Outline 0.25
@@ -9,4 +9,4 @@ material type = toon, lighting = smooth, deform = 1 1
 material type = basic, lighting = smooth, roughness = 0, refractionRatio = 1, side = back
   colors = Outline:#000
 voxels
-20(380-420B)
+19(380-420B)380-259B-160B
