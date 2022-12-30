@@ -1,6 +1,6 @@
 model
 name = The House Structure
-revision = 8402
+revision = 8403
 size = 20 40 20
 origin = -y
 shell = Outline 0.25
