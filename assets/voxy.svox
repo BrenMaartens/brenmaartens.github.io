@@ -1,6 +1,6 @@
 model
 name = Voxy
-revision = 8403
+revision = 8422
 size = 20 40 21
 origin = -y
 shell = Outline 0.25
@@ -9,4 +9,4 @@ material type = toon, lighting = smooth, deform = 1 1
 material type = basic, lighting = smooth, roughness = 0, refractionRatio = 1, side = back
   colors = Outline:#000
 voxels
-1180-4(119B-300B380-)15(420B380-)420B
+1180-4(119B-300B380-)420B5(380-120B220-80B)5(380-39B4(-19B)221-80B)3(380-39B9(-19B)-200B)2(380-420B)
