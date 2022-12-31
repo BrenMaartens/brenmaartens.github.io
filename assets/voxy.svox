@@ -1,7 +1,7 @@
 model
 name = Voxy
-revision = 8422
-size = 20 40 21
+revision = 8427
+size = 22 40 21
 origin = -y
 shell = Outline 0.25
 material type = toon, lighting = smooth, deform = 1 1
@@ -9,4 +9,4 @@ material type = toon, lighting = smooth, deform = 1 1
 material type = basic, lighting = smooth, roughness = 0, refractionRatio = 1, side = back
   colors = Outline:#000
 voxels
-1180-4(119B-300B380-)420B5(380-120B220-80B)5(380-39B4(-19B)221-80B)3(380-39B9(-19B)-200B)2(380-420B)
+1299-5(20B2-)19B3-14(20B2-)20B420-5(20B2-)19B3-12(20B2-)21B-20B2-20B420-2(5(20B2-)19B3-11(20B2-)3(21B-)21B419-)17(20B2-)2(3(21B-)21B419-5(20B2-)20B244-)2(20B2-2(21B-)21B419-5(20B2-)20B244-)20B2-2(21B-)20B420-5(20B2-)20B244-2(20B2-2(21B-)20B420-20B2-4(19B3-)19B245-)20B2-2(21B-)21B419-20B2-4(19B3-)19B245-2(20B2-)21B-2(21B419-20B2-4(19B3-)19B245-20B2-2(21B-))21B419-20B2-10(19B3-)8(20B2-)19B3-20B420-20B2-10(19B3-)6(20B2-)19B3-18B4-19B3-19B421-20B2-10(19B3-)6(20B2-)19B3-17B5-18B4-19B421-17(20B2-)19B3-18B4-17B5-19B421-17(20B2-)3(19B3-)19B2-
