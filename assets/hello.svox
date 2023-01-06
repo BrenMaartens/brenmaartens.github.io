@@ -1,6 +1,6 @@
 model
 name = Hello
-revision = 8402
+revision = 8407
 size = 20 40 20
 origin = -y
 shell = Outline 0.25
@@ -9,4 +9,4 @@ material type = toon, lighting = smooth, deform = 1 1
 material type = basic, lighting = smooth, roughness = 0, refractionRatio = 1, side = back
   colors = Outline:#000
 voxels
-20(380-420B)
+7(380-420B)380-12(130B14(10-10B)390-)155B4(4-16B)4-12B8(9-11B)9-
